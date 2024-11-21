@@ -7,5 +7,5 @@ https://datasets.activeloop.ai/docs/ml/datasets/fer2013-dataset/
 Добавил на 100 эпох, но с опозданием на 26 минут
 
 5-ая лабораторная: 
-  deeplab взял от сюда - https://idiotdeveloper.com/human-image-segmentation-with-deeplabv3plus-in-tensorflow/
+  deeplab взял от сюда - https://idiotdeveloper.com/human-image-segmentation-with-deeplabv3plus-in-tensorflow/<br>
   unet взял от сюда - https://habr.com/ru/articles/746842/
